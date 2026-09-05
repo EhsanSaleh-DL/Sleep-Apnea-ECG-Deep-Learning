@@ -76,7 +76,7 @@ Place your generated figures (e.g., ROC curves, accuracy/loss logs, and confusio
 
 | Confusion Matrix | ROC Curves |
 | :---: | :---: |
-| ![Confusion Matrix](results/InceptionV3_Confusion Matrix.JPG) | ![ROC Curve](results/InceptionV3_ROC.png) |
+| ![Confusion Matrix](results/InceptionV3_Confusion Matrix.png) | ![ROC Curve](results/InceptionV3_ROC.png) |
 
 ---
 
